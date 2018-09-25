@@ -1,0 +1,29 @@
+{
+    "points": {
+        "HMMY": {
+            "Title": "HMMY",
+            "Longitude": "35.531312",
+            "Latitude": "24.068244"
+        },
+        "MPD": {
+            "Title": "MPD",
+            "Longitude": "35.526405",
+            "Latitude": "24.069859"
+        },
+        "MHPER": {
+            "Title": "MHPER",
+            "Longitude": "35.532770",
+            "Latitude": "24.068874"
+        },
+        "MHXOP": {
+            "Title": "MHXOP",
+            "Longitude": "35.531812",
+            "Latitude": "24.070440"
+        },
+        "ARXMHX": {
+            "Title": "ARXMHX",
+            "Longitude": "35.532487",
+            "Latitude": "24.069586"
+        }
+    }
+}
