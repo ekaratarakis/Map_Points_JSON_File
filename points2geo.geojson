@@ -1,0 +1,55 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.531312,24.068244 ]
+    },
+    "properties": {
+    "Title":"HMMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.526405,24.069859 ]
+    },
+    "properties": {
+    "Title":"MPD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.532770,24.068874 ]
+    },
+    "properties": {
+    "Title":"MHPER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.531812,24.070440 ]
+    },
+    "properties": {
+    "Title":"MHXOP"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.532487,24.069586 ]
+    },
+    "properties": {
+    "Title":"ARXMHX"
+    }
+  }
+]
+}
